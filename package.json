@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve --host 0.0.0.0 --port $ANDREW2_SERVICE_PORT --publicHost http://andrew2-andrew2.apps.eu45.prod.nextcle.com/src/index.html",
+    "start": "ng serve --host 0.0.0.0 --port $ANDREW2_SERVICE_PORT --publicHost http://frontend-andrew2.apps.eu45.prod.nextcle.com/src/index.html",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
